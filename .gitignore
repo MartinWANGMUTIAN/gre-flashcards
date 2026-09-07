@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/output/
+/output/*
+!/output/flashcards/
+.DS_Store
